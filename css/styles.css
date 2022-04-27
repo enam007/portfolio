@@ -1,0 +1,51 @@
+body {
+  background-color: azure;
+font-family: 'Montserrat';
+
+}
+h1{
+  font-size: 3.5rem;
+  font-weight: bold;
+}
+
+.container-fluid{
+  padding: 0 3%;
+}
+
+.profile-image{
+  margin-left: 15%;
+  padding: 15% 10%;
+}
+
+.profile-desc{
+  padding: 10% 10% 10% 2%
+
+
+}
+.icons:hover{
+  color: #93dae4;
+}
+.button{
+  font-family: 'Montserrat-Black', sans-serif;
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  background-color: #93dae4;
+  margin-left: 10%;
+  border: 1px solid;
+  border-color: black;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  font-size: 1.5rem;
+  font-weight: bold;
+
+}
+.button:hover{
+  background-color: azure;
+  color: #93dae4;
+}
+#footer{
+  padding: 3% 3% 0;
+}
