@@ -8,6 +8,11 @@ h1{
   font-weight: bold;
 }
 
+a{
+  text-decoration: none;
+  color: black;
+}
+
 .container-fluid{
   padding: 0 3%;
 }
